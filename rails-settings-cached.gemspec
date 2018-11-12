@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   You can store any kind of object.  Strings, numbers, arrays, or any object.
   """
 
-  s.add_dependency 'rails', '>= 4.2.0'
+  s.add_dependency 'rails'
 
   s.add_development_dependency 'sqlite3'
   s.add_development_dependency 'rubocop', '0.46.0'
